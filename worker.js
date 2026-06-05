@@ -1,23 +1,23 @@
 'use strict';
 
 const OPT = {
-    "user": "admin",
-    "password": "admin",
-    "siteDomain": "blog.oshekher.workers.dev",
-    "siteName": "CF Workers Blog",
-    "siteDescription": "A Blog Powered By Cloudflare Workers and KV",
-    "keyWords": "cloudflare,KV,workers,blog",
+    "user": "Alexotto09",
+    "password": "antonfr",
+    "siteDomain": "https://news.puresites.workers.dev/",
+    "siteName": "Pure News",
+    "siteDescription": "All about Oakridge and Redmont.",
+    "keyWords": "cloudflare,KV,workers,blog,oakridge,democracycraft,redmont,reveille,aventura,willow,town,city,minecraft",
     "pageSize": 10,
     "recentlySize": 6,
     "readMoreLength": 150,
     "cacheTime": 60 * 60 * 24 * 0.5,
-    "themeURL": "https://raw.githubusercontent.com/OshekharO/Cloudflare-Workers-Blog/main/themes/minimal/",
+    "themeURL": "https://raw.githubusercontent.com/OshekharO/Cloudflare-Workers-Blog/main/themes/journal/",
     "html404": ``,
     "codeBeforHead": ``,
     "codeBeforBody": ``,
     "commentCode": ``,
     "widgetOther": ``,
-    "copyRight": `Powered by OshekharO`,
+    "copyRight": `Powered by Puresites`,
     "robots": `User-agent: *\nDisallow: /admin`,
     "draftPrefix": "DRAFT_"
 };
