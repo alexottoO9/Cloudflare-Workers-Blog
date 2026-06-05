@@ -1,3 +1,7 @@
-name = "purenews"
+name = "news"
 main = "worker.js"
 compatibility_date = "2025-06-01"
+
+[[kv_namespaces]]
+binding = "BLOG_STORE"
+id = "1234567890abcdef1234567890abcdef"
